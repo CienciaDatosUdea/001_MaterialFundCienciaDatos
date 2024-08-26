@@ -1,0 +1,3 @@
+[submodule "SitioWebCienciaDatos"]
+	path = SitioWebCienciaDatos
+	url = git@github.com:CienciaDatosUdea/SitioWebCienciaDatos.git
