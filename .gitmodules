@@ -1,6 +1,9 @@
-[submodule "SitioWebCienciaDatos"]
-	path = SitioWebCienciaDatos
-	url = git@github.com:CienciaDatosUdea/SitioWebCienciaDatos.git
+[submodule "001_EstudiantesFundCienciaDatos"]
+	path = 001_EstudiantesFundCienciaDatos
+	url = git@github.com:CienciaDatosUdea/001_EstudiantesFundCienciaDatos.git
+[submodule "001_InstructorFundCienciaDatos"]
+	path = 001_InstructorFundCienciaDatos
+	url = git@github.com:CienciaDatosUdea/001_InstructorFundCienciaDatos.git
 [submodule "001_SitioWebFundCienciaDatos"]
 	path = 001_SitioWebFundCienciaDatos
 	url = git@github.com:CienciaDatosUdea/001_SitioWebFundCienciaDatos.git
